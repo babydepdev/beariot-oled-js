@@ -14,8 +14,8 @@ A simple Node.js script to display system stats on an **OLED I2C display** using
 ## 📦 Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/yourusername/beariot-oled.git
-cd beariot-oled
+git clone https://github.com/babydepdev/beariot-oled-js.git
+cd beariot-oled-js
 ```
 
 ### 2️⃣ Install Dependencies
@@ -65,16 +65,9 @@ To make the script run automatically on startup:
 
 ---
 
-## 🛠 Dependencies
-- [Node.js](https://nodejs.org/) (v16+ recommended)
-- [oled-i2c-bus](https://www.npmjs.com/package/oled-i2c-bus)
-- [systeminformation](https://www.npmjs.com/package/systeminformation)
-- [i2c-bus](https://www.npmjs.com/package/i2c-bus)
-
----
-
 ## 🎯 Example Output on OLED
 ```
+Beariot Edge
 IP: 192.168.1.100
 CPU: 12.5%
 Temp: 45.3°C
@@ -82,13 +75,4 @@ RAM: 1.25/4.00GB
 Storage: 8.12/32.00GB
 ```
 
----
-
-## 📜 License
-MIT License © 2025 **Beariot Team**
-
----
-
-## 💬 Need Help?
-For any questions or issues, feel free to open an **issue** or reach out! 🚀
 
