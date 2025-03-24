@@ -14,7 +14,7 @@ A simple Node.js script to display system stats on an **OLED I2C display** using
 ## 📦 Installation
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/babydepdev/beariot-oled-js.git
+git clone [https://github.com/babydepdev/beariot-oled-js.git](https://github.com/babydepdev/beariot-oled-js.git)
 cd beariot-oled-js
 ```
 
